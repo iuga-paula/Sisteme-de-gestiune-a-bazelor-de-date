@@ -1,0 +1,2 @@
+# SGBD
+Proiect SGBD -Pl/SQL, SQL, SQL*PLUS, ORACLE
