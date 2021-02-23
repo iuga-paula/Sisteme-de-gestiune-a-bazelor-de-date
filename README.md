@@ -1,5 +1,5 @@
 # Sisteme de gestiune a bazelor de date
-## _Proiectarea și Interogarea unei baze de date pt DSP_ 
+# _Proiectarea și Interogarea unei baze de date pt DSP_ 
 Proiect care cuprinde:
 - proiectarea unei baze de date pentru DSP, 
 - implementarea unor subprograme utile în vederea gestionarii pacientilor infectați, spitalizați și carantinați din cauza virusului covid 19 cât și a personalului DSP,
@@ -8,7 +8,7 @@ Proiect care cuprinde:
 
 
 ## Tehnologii folosite:
-Proiectul a fost creat in **Sql Developer** folosind o baza de data locala creata cu ajutorul **Oracle Database 11gR2 Express Edition**.
+Proiectul a fost creat în **Sql Developer** folosind o baza de data locala creata cu ajutorul **Oracle Database 11gR2 Express Edition**.
 * Pl/SQL,
 * SQL, 
 * SQL*PLUS
@@ -37,9 +37,28 @@ Baza de date se împarte în 3 cateorii:
 
 
 
-## _Optimizarea codului PL\SQL_ 
+
+
+# _Optimizarea codului PL\SQL_ 
 Referatul raspunde la urmatoarele întrebări:
 * Ce greseli sunt de evitat atunci cand vrem să scriem un cod optim?
 * Cum putem eficientiza codul PL/SQL?
 
+## Cuprins
+- Subroprogram inlining
+- Proprietăți PL\SQL care îmbunătațesc timpul de execuție pt. comenzile SQL
+  - FORALL în loc de FOR pentru structuri repetitve de INSERT, DELETE, UPDATE
+  - Bulk collect în loc de select into repetitiv
+- Warninguri
+- Funcții de sistem pentru prelucrarea stringurilor
 
+
+## Tehnologii folosite
+Exemplele din referat au fost scrise în **Sql Developer** folosind:
+* Pl/SQL,
+* SQL, 
+* SQL*PLUS
+
+
+## Fișiere
+[Referatul]() 
