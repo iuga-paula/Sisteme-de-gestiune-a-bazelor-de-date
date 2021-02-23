@@ -61,4 +61,4 @@ Exemplele din referat au fost scrise în **Sql Developer** folosind:
 
 
 ## Fișiere
-[Referatul]() 
+[Referatul](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/main/Optimizarea_codului_PL_SQL.pdf) 
