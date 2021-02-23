@@ -6,7 +6,9 @@ Proiect care cuprinde:
 - un pachet care conține tipuri de date complexe și obiecte necesare unor actiuni integrate pentru gestionarea persoanelor infectate.
 - triggeri LMD și LDD
 
-Codului proiectului.
+##Fișiere
+[Codului proiectului](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/main/Documentatie_proiect_DSP.pdf)
+
 
 
 ## _Optimizarea codului PL\SQL_ ###_-referat_
