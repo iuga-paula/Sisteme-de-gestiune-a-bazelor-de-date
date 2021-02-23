@@ -7,9 +7,12 @@ Proiect care cuprinde:
 - triggeri LMD și LDD
 
 ## Diagrama entintate-relație
+![Diagrama entitate-relatie1](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/Screenshots-%26%26-Demos/DER1.png)
+![Diagrama entitate-relatie2](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/Screenshots-%26%26-Demos/DER2.png)
 
 ## Diagrama conceptuală
-
+![Diagrama conceptuala1](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/Screenshots-%26%26-Demos/DC1.png)
+![Diagrama conceptuala2](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/Screenshots-%26%26-Demos/DC2.png)
 
 ## Fișiere
 - [Codul proiectului](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/main/Proiect_DSP.sql)
