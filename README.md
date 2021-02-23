@@ -8,6 +8,8 @@ Proiect care cuprinde:
 
 ## Diagrama entintate-relație
 
+![Diagrama ER1](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/Screenshots-%26%26-Demos/DER1.png)
+
 ## Diagrama conceptuală
 
 
