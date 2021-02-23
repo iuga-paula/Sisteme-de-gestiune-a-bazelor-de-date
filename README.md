@@ -6,11 +6,13 @@ Proiect care cuprinde:
 - un pachet care conține tipuri de date complexe și obiecte necesare unor actiuni integrate pentru gestionarea persoanelor infectate.
 - triggeri LMD și LDD
 
+
 ## Tehnologii folosite:
 Proiectul a fost creat in **Sql Developer** folosind o baza de data locala creata cu ajutorul **Oracle Database 11gR2 Express Edition**.
 * Pl/SQL,
 * SQL, 
 * SQL*PLUS
+
 
 ## Diagrama entintate-relație
 Baza de date se împarte în 3 cateorii:
@@ -36,4 +38,4 @@ Baza de date se împarte în 3 cateorii:
 
 
 ## _Optimizarea codului PL\SQL_ 
- ORACLE
+
