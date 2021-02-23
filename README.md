@@ -38,4 +38,8 @@ Baza de date se împarte în 3 cateorii:
 
 
 ## _Optimizarea codului PL\SQL_ 
+Referatul raspunde la urmatoarele întrebări:
+* Ce greseli sunt de evitat atunci cand vrem să scriem un cod optim?
+* Cum putem eficientiza codul PL/SQL?
+
 
