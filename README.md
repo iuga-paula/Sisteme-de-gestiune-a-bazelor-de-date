@@ -6,6 +6,8 @@ Proiect care cuprinde:
 - un pachet care conține tipuri de date complexe și obiecte necesare unor actiuni integrate pentru gestionarea persoanelor infectate.
 - triggeri LMD și LDD
 
+Codului proiectului.
+
 
 ## _Optimizarea codului PL\SQL_ ###_-referat_
 Pl/SQL, SQL, SQL*PLUS, ORACLE
