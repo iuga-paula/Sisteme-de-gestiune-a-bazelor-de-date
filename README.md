@@ -62,3 +62,8 @@ Exemplele din referat au fost scrise în **Sql Developer** folosind:
 
 ## Fișiere
 [Referatul](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/main/Optimizarea_codului_PL_SQL.pdf) 
+
+
+# _Workshop Oracle - Solutii de replicare a datelor_
+[Notite Workshop](https://github.com/iuga-paula/Sisteme-de-gestiune-a-bazelor-de-date/blob/main/Solutii%20de%20replicare%20a%20datelor.pdf)
+
